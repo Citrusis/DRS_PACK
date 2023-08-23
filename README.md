@@ -2,7 +2,8 @@
 [Minecraft Resourcepack] Detailed RedStone_Pack
 # 我的世界JE 1.20+红显材质包
 
-# 无需OptiFine，发光功能暂不兼容Sodium和部分光影，为避免发光出问题请把mipmap关闭
+# 无需OptiFine，发光功能暂不兼容Sodium和部分光影，如不想发光效果远距离消失请把mipmap关闭
+#现已支持到最低1.13版本！
 
 目前包含内容：  
 红石线等级 [等级高亮]  
