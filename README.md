@@ -2,8 +2,8 @@
 [Minecraft Resourcepack] Detailed RedStone_Pack
 # 我的世界JE 1.20+红显材质包
 
-# 无需OptiFine，发光功能暂不兼容Sodium和部分光影，如不想发光效果远距离消失请把mipmap关闭
-#现已支持到最低1.13版本！
+## 无需OptiFine，发光功能暂不兼容Sodium和部分光影，如不想发光效果远距离消失请把mipmap关闭
+### 现已支持到最低1.13版本！
 
 目前包含内容：  
 红石线等级 [等级高亮]  
@@ -54,5 +54,5 @@ Do_zi的人物模型不死图腾 单独模型(CustomModelData:1202)
 1202是我的生日XP  
 你可以更改DRS_PACK\assets\minecraft\textures\item下的skin_1&skin_2&skin_3&skin_4替换为你自己的皮肤来获得你自己的小人
 
-# 欢迎来哔哩哔哩关注我！[https://space.bilibili.com/1018627568]
+## [欢迎来哔哩哔哩关注我！](https://space.bilibili.com/1018627568)
 # 转载需注明来源哦，希望你使用愉快！
